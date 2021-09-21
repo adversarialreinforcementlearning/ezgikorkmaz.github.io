@@ -1,8 +1,10 @@
 I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. Before I have Masters in Science degree in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Publications
+
+[1] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI) [Acceptance Rate: 26.38%], 2021.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
