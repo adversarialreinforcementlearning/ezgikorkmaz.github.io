@@ -1,4 +1,4 @@
-I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. Before I have Masters in Science degree in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology. 
+I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. I hold a Masters in Science degree in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology. My research focus is robustness and generalization in machine learning.
 
 
 
