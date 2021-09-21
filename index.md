@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/EzgiKorkmaz/ezgikorkmaz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. Before I have Masters in Science degree in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
