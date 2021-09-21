@@ -12,7 +12,7 @@ and Reliable Machine Learning in the Real World Workshop, 2021.
 
 [3] Ezgi Korkmaz. Non-Robust Feature Mapping in Deep Reinforcement Learning. International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021.
 
-[4] Ezgi Korkmaz. A Brief Summary on COVID-19 Pandemic and Machine Learning Approaches. International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Artificial Intelligence for Social Good, 2021.
+[4] Ezgi Korkmaz. A Brief Summary on COVID-19 Pandemic and Machine Learning Approaches. International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Artificial Intelligence for Social Good, 2021. [paper](https://github.com/EzgiKorkmaz/ezgikorkmaz.github.io/blob/main/ijcai21.pdf)
 
 [5]  Ezgi Korkmaz. Adversarial Training Blocks Generalization in Neural Policies. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.
 
