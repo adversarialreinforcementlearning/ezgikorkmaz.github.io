@@ -13,7 +13,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [4] Ezgi Korkmaz. A Brief Summary on COVID-19 Pandemic and Machine Learning Approaches. International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Artificial Intelligence for Social Good, 2021. [[Paper]](ijcai21EK.pdf)
 
-[5]  Ezgi Korkmaz. Adversarial Training Blocks Generalization in Neural Policies. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.
+[5]  Ezgi Korkmaz. Adversarial Training Blocks Generalization in Neural Policies. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.  [[Paper]](naturalEK.pdf)
 
 [6] Ezgi Korkmaz. Nesterov Momentum Adversarial Perturbations in the Deep Reinforcement Learning Domain. International Conference on Machine Learning (ICML) Inductive Biases, Invariances and Generalization in Reinforcement Learning Workshop, 2020.
 
