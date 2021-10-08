@@ -17,9 +17,10 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [5]  Ezgi Korkmaz. Adversarial Training Blocks Generalization in Neural Policies. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.  [[Paper]](naturalEK.pdf)
 
-[6] Ezgi Korkmaz. Adversarially Trained Neural Policies in Fourier Domain. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop,2021 & International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021.
+[6] Ezgi Korkmaz. Nesterov Momentum Adversarial Perturbations in the Deep Reinforcement Learning Domain. International Conference on Machine Learning (ICML) Inductive Biases, Invariances and Generalization in Reinforcement Learning Workshop, 2020.
 
-[7] Ezgi Korkmaz. Nesterov Momentum Adversarial Perturbations in the Deep Reinforcement Learning Domain. International Conference on Machine Learning (ICML) Inductive Biases, Invariances and Generalization in Reinforcement Learning Workshop, 2020.
+[7] Ezgi Korkmaz. Adversarially Trained Neural Policies in Fourier Domain. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop,2021 & International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021.
+
 
 
 
