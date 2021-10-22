@@ -11,7 +11,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [2] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) [[Slides]](https://www.youtube.com/watch?v=F3cvXrLWcoU&t=3s&ab_channel=AngelinaWang)
 
-[3] Ezgi Korkmaz. Non-Robust Feature Mapping in Deep Reinforcement Learning. International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021.
+[3] Ezgi Korkmaz. Non-Robust Feature Mapping in Deep Reinforcement Learning. International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021 & Conference on Neural Information Processing Systems (NeurIPS) Metacognition in the Age of AI: Challenges and Opportunities, 2021.
 
 [4]  Ezgi Korkmaz. Adversarial Training Blocks Generalization in Neural Policies. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021 & Conference on Neural Information Processing Systems (NeurIPS) Safe and Robust Control of Uncertain Systems Workshop, 2021 & Conference on Neural Information Processing Systems (NeurIPS) I Can't Believe It's Not Better Workshop, 2021. [[Paper]](naturalEK.pdf)
 
