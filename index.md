@@ -7,7 +7,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 ### Publications
 
 [1] Ezgi Korkmaz. Investigating Vulnerabilities of Deep Neural Policies. Conference on Uncertainty in Artificial Intelligence (UAI), 2021.<br />
-**[Acceptance Rate: 26.38%]**[[Paper]](https://www.auai.org/uai2021/pdf/uai2021.635.pdf) [[Cite]](ekuaibibtex.html) [button url="http://www.google.com"]
+**[Acceptance Rate: 26.38%]**[[Paper]](https://www.auai.org/uai2021/pdf/uai2021.635.pdf) [[Cite]](ekuaibibtex.html) 
 
 [2] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) [[Slides]](https://www.youtube.com/watch?v=F3cvXrLWcoU&t=3s&ab_channel=AngelinaWang) [[Cite]](https://dblp.org/rec/conf/cvpr/Korkmaz21.html?view=bibtex)
 
