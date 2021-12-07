@@ -4,7 +4,7 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 
 
-### Publications
+### Single Author Publications
 
 [1] Ezgi Korkmaz. Deep Reinforcement Learning Policies Learn Shared Non-Robust Features Across MDPs. AAAI Conference on Artificial Intelligence, 2022. **[Acceptance Rate: 14.58%]**
 
