@@ -1,3 +1,6 @@
+<head>
+  <meta name="keywords" content="adversarial, deep reinforcement learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, safe RL, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment ">
+</head>
 
 
 I am a machine learning researcher and a PhD candidate in artificial intelligence and machine learning. I hold a Masters of Science degree in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology. I wrote my MSc thesis at University of California, Berkeley. My current research focus is robustness and generalization in machine learning.
@@ -28,4 +31,4 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 
 
-
+<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, policy, DeepRL, DRL, robust, adversarial policies, explainability, interpretability, AI alignment, AI explainability, AI interpretability, machine learning explainability, machine learning interpretability, ML safety, ML security, machine learning safety, artificial intelligence safety, adversarial reinforcement learning, robust reinforcement learning, robust RL, adversarial RL, safe reinforcement learning, safe RL, RL security, reinforcement learning security, AI security, adversarial machine learning, human centered AI</span>
