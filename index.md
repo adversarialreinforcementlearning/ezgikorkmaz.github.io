@@ -1,5 +1,5 @@
 <head>
-  <meta name="keywords" content="adversarial, deep reinforcement learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, safe RL, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment ">
+  <meta name="keywords" content="adversarial, deep reinforcement learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, safe RL, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment, ML safety, ML security, machine learning safety, artificial intelligence safety, adversarial reinforcement learning, robust reinforcement learning, robust RL, adversarial RL, safe reinforcement learning, safe RL, RL security, reinforcement learning security, AI security, adversarial machine learning, human centered AI ">
 </head>
 
 
@@ -29,6 +29,3 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 
 [8] Ezgi Korkmaz. Adversarially Trained Neural Policies in Fourier Domain. International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop,2021 & International Conference on Machine Learning (ICML) A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning Workshop, 2021. [[Cite]](ekfourierbibtex.html)
 
-
-
-<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, policy, DeepRL, DRL, robust, adversarial policies, explainability, interpretability, AI alignment, AI explainability, AI interpretability, machine learning explainability, machine learning interpretability, ML safety, ML security, machine learning safety, artificial intelligence safety, adversarial reinforcement learning, robust reinforcement learning, robust RL, adversarial RL, safe reinforcement learning, safe RL, RL security, reinforcement learning security, AI security, adversarial machine learning, human centered AI</span>
