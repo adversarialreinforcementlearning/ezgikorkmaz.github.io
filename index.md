@@ -16,9 +16,9 @@ I am a machine learning researcher and a PhD candidate in artificial intelligenc
 **[Acceptance Rate: 26.38%]** <br />
 [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf) [[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html) [[Abstract]](https://robustdeepreinforcementlearning.github.io/) [[News]](https://adversa.ai/blog/best-of-adversarial-ml-week-34-attacking-aerial-imagery-object-detector/) [[Cite]](ekuaibibtex.html)
 
-[3] Ezgi Korkmaz. The Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022.
+[3] Ezgi Korkmaz. The Robustness of Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Artificial Intelligence for Agent Based Modelling Workshop, 2022. [[Cite]](ekicml22bibtex.html)
 
-[4] Ezgi Korkmaz. Adversarial Attacks Against Deep Imitation and Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Complex Feedback in Online Learning Workshop, 2022.
+[4] Ezgi Korkmaz. Adversarial Attacks Against Deep Imitation and Inverse Reinforcement Learning. International Conference on Machine Learning (ICML) Complex Feedback in Online Learning Workshop, 2022. [[Cite]](ekicmlbibtex.html)
 
 [5] Ezgi Korkmaz. Inaccuracy of State-Action Value Function For Non-Optimal Actions in Adversarially Trained Deep Neural Policies. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR) **[Oral Presentation]**, 2021 & International Conference on Learning Representation (ICLR) Robust and Reliable Machine Learning in the Real World Workshop, 2021.[[Paper]](https://ieeexplore.ieee.org/document/9523170) [[Slides]](https://www.youtube.com/watch?v=F3cvXrLWcoU&t=3s&ab_channel=AngelinaWang) [[Cite]](https://dblp.org/rec/conf/cvpr/Korkmaz21.html?view=bibtex)
 
